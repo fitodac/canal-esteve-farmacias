@@ -1,0 +1,11 @@
+
+<svg width="20px" height="12px" viewBox="0 0 20 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Preguntas-frecuentes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EST-Retos-Preguntas-frecuentes" transform="translate(-1012.000000, -1026.000000)">
+            <g id="Rectangle" transform="translate(1002.000000, 1012.000000)">
+                <rect x="0" y="0" width="40" height="40"></rect>
+                <polyline stroke="#5A5E5F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(19.944059, 15.944059) rotate(45.000000) translate(-19.944059, -15.944059) " points="25.8881179 10 25.8881179 21.8881179 14 21.8881179"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

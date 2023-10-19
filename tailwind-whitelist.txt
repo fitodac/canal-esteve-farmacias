@@ -3,6 +3,7 @@
 .bg-brand-purple
 .bg-brand-magenta
 .bg-brand-red
+.bg-brand-green
 .bg-color-form
 
 .border-color-form
@@ -10,10 +11,13 @@
 .border-brand-sky
 .border-brand-purple
 .border-brand-magenta
+.border-brand-green
 .border-color-form
 
 .text-brand-blue
 .text-brand-sky
 .text-brand-purple
 .text-brand-magenta
+.text-brand-green
+.text-brand-green-dark
 .text-color-form
